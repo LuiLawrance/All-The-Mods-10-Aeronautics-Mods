@@ -1,0 +1,18 @@
+filename = 'CF32PA-2026r21.zip'
+name = 'Classic Faithful 32x'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '26.2', '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2026r21'
+
+[download]
+hash = 'a552d2baa9b92cacd8aef2b1de16658779621bc5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8899605
+project-id = 667237
